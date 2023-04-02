@@ -27,7 +27,7 @@
 <h1 align="center">Installation</h1>
 
 ```md
-- Put the bot.js start.bat files and the actions folder inside your project folder [YOUR BOT]
+- Place [bot.js] - [start.bat] - [actions] in your project folder [YOUR BOT]
 - Discord Bot Maker > File > Actions//Events//Extensions > Re-Read Project Mods
 ```
 
