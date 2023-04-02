@@ -9,9 +9,7 @@ SOON
 
 
 <p align="center">
-<a href="https://discord.gg/HBc9u9tktd" rel="nofollow">DBM BRAZIL MODS</a> is a multi-language community dedicated to modifying, extending and improving</p>
-<p align="center">
-<a href="https://store.steampowered.com/app/682130/Discord_Bot_Maker" rel="nofollow">Discord Bot Maker</a> 
+<a href="https://discord.gg/HBc9u9tktd" rel="nofollow">DBM BRAZIL MODS</a> is a multi-language community dedicated to modifying, extending and improving <a href="https://store.steampowered.com/app/682130/Discord_Bot_Maker" rel="nofollow">Discord Bot Maker</a>
 </p>
 
 <p align="center">
@@ -20,8 +18,12 @@ SOON
 
 <h1 align="center">Description</h1>
 
-<p align="center">English translation of the following Portuguese actions</p>
-<p align="center">https://github.com/DBM-Mods/Portugues</p>
+<p align="center">English translation of the following Portuguese actions -> https://github.com/DBM-Mods/Portugues</p>
+
+<p align="center">
+  <a href="https://github.com/TheKingOfCampers/DBM-Mods-French/archive/refs/heads/main.zip"</a>
+  <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092091889970319511/Download-Button.png" width="200">
+</p>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092031705453436928/blank.png" width="50" title="hover text">
