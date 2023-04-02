@@ -47,7 +47,7 @@ SOON
 
 <h1 align="center">Credits</h1>
 <p align="center">
-  Created by: <a href="https://discord.com/users/172782058396057602" rel="nofollow">XinXyla</a> and <a href="https://discord.com/users/321400509326032897" rel="nofollow">Tempest</a>
+  Created by: <a href="https://discord.com/users/172782058396057602" rel="nofollow">XinXyla</a> / <a href="https://discord.com/users/321400509326032897" rel="nofollow">Tempest</a>
   </p>
 <p align="center">Translated by: <a href="https://discord.com/users/1042087216979116032" rel="nofollow">🆃🅷🅴 🅺🅸🅽🅶 ✅</a>
   </p>
